@@ -1,7 +1,7 @@
 {
   "name": "freegeoip",
   "description": "IP geolocation web server",
-  "website": "https://github.com/beakshy/freegeoip",
+  "website": "https://github.com/beakshy/geoip",
   "success_url": "/",
   "keywords": ["golang", "geoip", "api"]
 }
