@@ -1,6 +1,4 @@
-# freegeoip
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+# geoip
 
 This is the source code of the freegeoip software. It contains both
 the web server that empowers freegeoip.net, and a package for the
